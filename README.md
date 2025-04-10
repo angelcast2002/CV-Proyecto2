@@ -48,7 +48,6 @@ El script `handDetectorMediapipeCV.py` permite detectar manos en transmisiones e
 Se mostrará la transmisión en vivo con las manos detectadas y sus puntos clave dibujados.
 
 ## Estructura del proyecto
-```
 CV-Proyecto2/
 │
 ├── [bodyDetection.py](http://_vscodecontentref_/0)          # Script para detección de poses corporales
@@ -59,7 +58,6 @@ CV-Proyecto2/
 │   └── output/               # Carpeta para guardar los resultados procesados
 ├── [README.md](http://_vscodecontentref_/4)                 # Documentación del proyecto
 └── requirements.txt          # Dependencias del proyecto
-```
 
 ## Créditos
 Este proyecto utiliza la biblioteca MediaPipe para la detección de poses y manos. MediaPipe es una solución de visión por computadora desarrollada por Google.
